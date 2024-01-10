@@ -1,3 +1,64 @@
+<style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    .header {
+      background-color: #24292e;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 8px;
+    }
+    h1, h3 {
+      margin: 10px 0;
+    }
+    p {
+      margin: 5px 0;
+    }
+    .profile-pic {
+      border-radius: 50%;
+      max-width: 150px;
+      height: auto;
+      margin: 10px auto;
+      display: block;
+    }
+    .social-icons img {
+      margin-right: 10px;
+      width: 30px;
+      height: 30px;
+    }
+    .stats {
+      display: flex;
+      justify-content: space-between;
+    }
+    .stats div {
+      flex: 1;
+      text-align: center;
+      padding: 10px 0;
+    }
+    .stats img {
+      display: block;
+      margin: 0 auto;
+      width: 60px;
+      height: auto;
+    }
+  </style>
+</head>
+
+
+
+<body>
+
 <h1 align="center">Hi 👋, I'm vivek shrivas</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -31,3 +92,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-shrivas&show_icons=true&locale=en" alt="vivek-shrivas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-shrivas&" alt="vivek-shrivas" /></p>
+<body/>
