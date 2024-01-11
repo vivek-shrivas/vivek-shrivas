@@ -12,11 +12,7 @@
 
 - 👯 looking to collaborate on [Snacz](https://github.com/vivek-shrivas/snacz.git)
 
-- 👨‍💻  take a look at my work (https://github.com/vivek-shrivas)
-
-- 💬 Ask me about **C++ , Java ,AngularJS , JS**
-
-- 📫 How to reach me **vivekshrivas.work@gmail.com**
+- 📫 Reach me at **vivekshrivas.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
