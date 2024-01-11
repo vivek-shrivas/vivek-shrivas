@@ -12,7 +12,7 @@
 
 - 👯 looking to collaborate on [Snacz](https://github.com/vivek-shrivas/snacz.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vivek-shrivas](https://github.com/vivek-shrivas)
+- 👨‍💻  take a look at my work (https://github.com/vivek-shrivas)
 
 - 💬 Ask me about **C++ , Java ,AngularJS , JS**
 
